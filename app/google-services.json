@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "922482863090",
+    "firebase_url": "https://bus-management-system-1f6fe-default-rtdb.firebaseio.com",
+    "project_id": "bus-management-system-1f6fe",
+    "storage_bucket": "bus-management-system-1f6fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922482863090:android:09f4e6ddf0a92a7922996b",
+        "android_client_info": {
+          "package_name": "com.example.busmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922482863090-4suqnh0mj6ei7ubbeh6kam9p5v3cpju5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.busmanagementsystem",
+            "certificate_hash": "bd7934a35f2f5ef2426050cf648bb996febe74b3"
+          }
+        },
+        {
+          "client_id": "922482863090-fc7n7mnqspsficrf17nnvmf7puiic9ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiE4XrA8S68-aQy-s69s39HQTgX_2RIaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922482863090-fc7n7mnqspsficrf17nnvmf7puiic9ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
